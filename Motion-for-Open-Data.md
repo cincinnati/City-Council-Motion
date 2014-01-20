@@ -1,9 +1,13 @@
 ## MOTION ##
 
 WE MOVE that City Council supports the Open Data initiative; and
+
 WE MOVE further that the Administration develop a plan for evaluating and disseminating data sets generated within all city departments at "Open Data" in accessible raw formats that will be made available to the public through departmental websites as well as accessible in the aggregate through Open Data Cincy; and
+
 WE MOVE further that the Administration develop a comprehensive Open Data policy for Cincinnati; and
+
 WE MOVE further the following regarding the plan that:
+
 - the plan require that the data be made available on the Internet through a single web portal, formatted to enable viewing by web browsers and mobile devices and also in their raw or unprocessed format; 
 - in developing rules and standards for the Open Data Policy and plan, the City Administration utilize the assistance of Open Data Cincy to provide guidance for entities implementing open data policies;
 - The City Administration shall ensure that each department, board, commission and agency makes reasonable efforts to make available all data sets under the Department's control, provided that such disclosure be consistent with applicable laws and policies, including laws related to privacy and security;
